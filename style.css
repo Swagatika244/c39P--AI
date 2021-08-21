@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.resetText{
+  font-size: 70px;
+  color: #660000;
+  font-family: vollkorn;
+  text-align: center;
+  text-shadow: -1px 1px 0 #000000,
+                1px 1px 0 #000000,
+                1px -1px 0 #000000,
+                -1px -1px 0 #000000;
+}
